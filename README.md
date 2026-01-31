@@ -110,7 +110,7 @@ HotelManagementSystem/
 │   ├── HotelManagementSystem/
 │   └── icons_Hotel/
 ├── database/
-│   └── hms_schema.sql
+│   └── HMS_schema.sql
 └── .gitignore
 ```
 
