@@ -13,8 +13,8 @@ It focuses on simplifying hotel workflows such as check-in, check-out, room allo
 - Full control over hotel operation
 
 ✨ Features
+<br>
 🔐 Authentication
-
 - Admin login system for secured access
 
 👥 Employee Management
